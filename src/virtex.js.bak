@@ -1,0 +1,6 @@
+const virtex = (prefix) => { 
+	return `
+Maaf! Eren Males Kirim Virtex
+Nanti Eren Ke banned Gimana?`
+}
+exports.virtex = virtex
